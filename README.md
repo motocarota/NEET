@@ -1,7 +1,7 @@
 # NEETT
 Some boilerplate to get started fast
 
-NEETT = Node.js/Express/ESLint/Typescript
+NEET = Node.js/Express/ESLint/Typescript
 
 ## How to use this
 
